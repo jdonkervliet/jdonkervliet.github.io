@@ -46,6 +46,16 @@ read_time: true
 
 author:
     name: Jesse Donkervliet
-    twitter: jdonkervliet
     picture: /images/jesse.jpg
+    twitter: jdonkervliet
+    links:
+        - title: Twitter
+          url: https://twitter.com/jdonkervliet
+          icon: fab fa-twitter-square
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/mmistakes
+    icon: fab fa-twitter-square
 
