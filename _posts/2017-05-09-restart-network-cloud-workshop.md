@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teaching at Restart.Network"
+title:  "Teaching Cloud Computing at restart.network"
 date:   2017-05-09 23:30:57 +0200
 categories: teaching workshop restart.network cloud
 ---
