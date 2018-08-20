@@ -40,3 +40,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Estimate read time for each article
+read_time: true
