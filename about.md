@@ -6,7 +6,13 @@ permalink: /about-me/
 
 # Professional
 
-I am a Computer Science teacher in the bachelor at the TU Delft. I teach multiple courses with a focus on _Computer Systems_. I use my [twitter feed](http://www.twitter.com/jdonkervliet) to document my life as a teacher.
+I am both a PhD student and teacher at the Vrije Universiteit Amsterdam.
+
+I recently joined the [Knowledge Representation and Reasoning group](https://krr.cs.vu.nl/) as a PhD student. I have previously been part of the [@Large Research group](https://atlarge-research.com/), and am still involved with its [Opencraft](https://atlarge-research.com/opencraft/) project.
+
+I teach the X_40087 Computer Networks course at the Vrije Universiteit.
+
+I use my [twitter feed](http://www.twitter.com/jdonkervliet) to document my life as a PhD student and teacher.
 
 # Education
 
