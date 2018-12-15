@@ -28,9 +28,5 @@ I loved watching movies ever since I saw 'The Lion King' as a little kid. I try 
 
 If I'm not watching movies I'm probably reading a book. [I also try to keep track of those][2].
 
-# Curriculum Vitae
-
-[Click to download PDF.](https://www.jdonkervliet.com/static-files/cv-public.pdf)
-
 [1]: http://www.imdb.com/user/ur39526320/watchlist
 [2]: https://www.goodreads.com/review/list/54011900-jesse?shelf=read&sort=rating
