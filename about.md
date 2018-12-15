@@ -8,9 +8,9 @@ permalink: /about-me/
 
 I am both a PhD student and teacher at the Vrije Universiteit Amsterdam.
 
-I recently joined the [Knowledge Representation and Reasoning group](https://krr.cs.vu.nl/) as a PhD student. I have previously been part of the [@Large Research group](https://atlarge-research.com/), and am still involved with its [Opencraft](https://atlarge-research.com/opencraft/) project.
+I recently joined the [Knowledge Representation and Reasoning group](https://krr.cs.vu.nl/) as a PhD student. I have previously been part of the [@Large group](https://atlarge-research.com/), and am still involved with its [Opencraft](https://atlarge-research.com/opencraft/) project.
 
-I teach the X_40087 Computer Networks course at the Vrije Universiteit.
+I supervise multiple students and student groups for courses and research projects. I also teach the Computer Networks course, and hope to teach additional courses in the coming years.
 
 I use my [twitter feed](http://www.twitter.com/jdonkervliet) to document my life as a PhD student and teacher.
 
