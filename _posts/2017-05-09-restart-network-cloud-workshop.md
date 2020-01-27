@@ -2,7 +2,7 @@
 layout: post
 title:  "Teaching Cloud Computing at restart.network"
 date:   2017-05-09 23:30:57 +0200
-categories: teaching workshop restart.network cloud
+tags: education
 ---
 This week I had a lot of fun teaching the basics of cloud computing at [restart.network](https://restart.network/), a start-up company that offers computer-science bootcamps to refugees, helping them get into the Dutch job-market.
 

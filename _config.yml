@@ -45,6 +45,8 @@ plugins:
 # Estimate read time for each article
 read_time: true
 
+tag_archive_path: "/posts-tag/#"
+
 author:
     name: Jesse Donkervliet
     picture: /images/jesse.jpg
@@ -59,4 +61,3 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/jdonkervliet
     icon: fab fa-twitter-square
-

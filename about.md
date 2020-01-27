@@ -8,7 +8,7 @@ permalink: /about-me/
 
 I am both a PhD student and teacher at the [Vrije Universiteit Amsterdam][url-vu]. I document this adventure on this website and on [twitter][url-twitter]. 
 
-## Research 🖥🧪
+## Research <i class="fas fa-server"></i> <i class="fas fa-flask"></i>
 
 I do research on the scalability of Minecraft-like games. These games offer players a sandbox where they can let their creativity run free. This allows not only the game's developer, but also its community, to participate in creating engaging and meaningful[^fn-education] content for a world-wide audience. 
 
@@ -18,7 +18,7 @@ I do this research as a member of the [Opencraft][url-atlarge-opencraft] project
 
 You can find my publications on the [@Large website][url-atlarge-jdonkervliet].
 
-## Teaching ☀️🌱
+## Teaching <i class="fas fa-pencil-alt"/> <i class="fas fa-user-graduate"/>
 
 I entered the world of teaching as a Teaching Assistant for the course Computer Organization while I was doing my Bachelors in Computer Science at the [TU Delft][url-tudelft].
 
@@ -36,7 +36,7 @@ In addition to teaching courses, I also supervise multiple students and student 
 | Computer Organization | Teacher | 2017, 2018 | 1st Year CS BSc | [TUD][url-tudelft] |
 | Computer Organization | Teaching Assistant | 2014-2016 | 1st Year CS BSc | [TUD][url-tudelft] |
 
-# Education
+# Education <i class="fas fa-pencil-alt"/> <i class="fas fa-user-graduate"/>
 
 I am currently a PhD student in the @Large group at the Vrije Universiteit Amsterdam.
 
@@ -47,20 +47,11 @@ I obtained my BSc in Computer Science from the TU Delft.
 During the BSc, I participated and completed the Bachelor Honors track. I completed the BSc cum laude. 
 You can find my BSc thesis [here][url-bsc-thesis].
 
-# Other stuff
+# Other stuff <i class="fas fa-book"/> <i class="fas fa-gamepad" /> <i class="fas fa-film"/> 
 
+I enjoy reading books, watching movies, playing video games, and, increasingly, playing board games.
+I try to occasionally post about these topics on this site.
 
-
-## Movies 🍿🎥
-
-I loved watching movies ever since I saw 'The Lion King' as a little kid. I try to keep track of everything I've seen on [IMDB][url-imdb].
-
-## Books 📚🤓
-
-If I'm not watching movies I'm probably reading a book. I keep track of what I read on [Goodreads][url-goodreads].
-
-[url-imdb]: http://www.imdb.com/user/ur39526320/watchlist
-[url-goodreads]: https://www.goodreads.com/review/list/54011900-jesse?shelf=read&sort=rating
 [url-twitter]: http://www.twitter.com/jdonkervliet
 
 [url-bsc-thesis]: https://repository.tudelft.nl/islandora/object/uuid%3Aaa101139-5fe5-457d-85f5-cf939cfe3868?collection=education
