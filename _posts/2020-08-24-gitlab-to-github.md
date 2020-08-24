@@ -26,8 +26,8 @@ Unfortunately, I quickly ran into trouble using this method. Most of our GitLab 
 
 Because I know the repo URL to be correct, it took a while before I figured that my two-factor authentication (2FA) was the issue. Thank you, error message!
 
-To solve the problem, you can navigate to the repository you're trying to import and [create a Deploy Key](https://stackoverflow.com/a/54743698/2094999). You can then use this key as your login.
-This approach requires you to create a Deploy Key for every imported repository. Because I was moving 24 repositories, I decided to simply temporarily deactivate 2FA.
+The proper way to solve this, is to create a `read_repository` access token, and use that as your password.
+Instead, I simply temporarily disabled my 2FA.
 
 # Moving Merge Requests and Issues from GitLab to GitHub
 
