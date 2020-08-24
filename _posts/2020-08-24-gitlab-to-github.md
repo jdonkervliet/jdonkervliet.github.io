@@ -27,7 +27,7 @@ Unfortunately, I quickly ran into trouble using this method. Most of our GitLab 
 Because I know the repo URL to be correct, it took a while before I figured that my two-factor authentication (2FA) was the issue. Thank you, error message!
 
 The proper way to solve this, is to create a `read_repository` access token, and use that as your password.
-Instead, I simply temporarily disabled my 2FA.
+Instead, I temporarily disabled my 2FA.
 
 # Moving Merge Requests and Issues from GitLab to GitHub
 
