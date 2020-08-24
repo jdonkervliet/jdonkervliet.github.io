@@ -24,14 +24,14 @@ Unfortunately, I quickly ran into trouble using this method. Most of our GitLab 
 
 >  No source repositories were detected at \<repo_url>. Please check the URL and try again. 
 
-Because I know the repo URL to be correct, it took a while before I figured that my two-factor authentication (2FA) was the issue. Thank you, error message!
+Because I knew the repo URL to be correct, it took a while before I figured that my two-factor authentication (2FA) was the issue. Thank you, error message!
 
 The proper way to solve this, is to create a `read_repository` access token, and use that as your password.
 Instead, I temporarily disabled my 2FA.
 
 # Moving Merge Requests and Issues from GitLab to GitHub
 
-Because many repositories belonged to single developers, only a few repositories contained merge requests (and issues). Whereas [GitLab's import tool](https://docs.gitlab.com/ee/user/project/import/github.html) imports a GitHub repository including its pull requests, issues, wikis, and other data, GitHub's importer only imports the barebones Git repository.
+Because many repositories belonged to single developers, only a few repositories contained merge requests (and issues). Whereas [GitLab's import tool](https://docs.gitlab.com/ee/user/project/import/github.html) imports a GitHub repository including its pull requests, issues, wikis, and other data, GitHub's importer only imports the bare-bones Git repository.
 
 Because I did not want to lose data, I searched the Internet for third-party tools that can do the job. I quickly found [node-gitlab-2-github](https://github.com/piceaTech/node-gitlab-2-github), which works reasonably well. Among other things, it allows you to import issues and pull requests. It can also map GitLab usernames to GitHub usernames, which prevents @-mentions from breaking. Its README is clear, and the process is straightforward. Get access tokens for both GitLab and GitHub, fill in the `settings.ts` file, and let the script do its work.
 
