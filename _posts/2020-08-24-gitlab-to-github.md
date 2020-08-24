@@ -18,7 +18,7 @@ Overall, I moved the repositories from GitLab to GitHub in two steps.
 
 After migrating the first few repositories by hand,[^1] I found out you can import existing repositories quickly using [GitHub's import tool](https://github.com/new/import). With this tool, you only need to submit a URL pointing to the original repository and the desired name of the new repository.
 
-![GitHub's Importer](../images/github-import.png)
+![GitHub's Importer](/images/github-import.png)
 
 Unfortunately, I quickly ran into trouble using this method. Most of our GitLab repositories are only visible to registered users. To read the repository, the user needs to log in. Although GitHub's import tool registered this and asked for my credentials, the result was the following message:
 
