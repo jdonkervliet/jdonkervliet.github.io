@@ -255,7 +255,22 @@ We do this by adding the following code to our `pom.xml`:
     </snapshotRepository>
 </distributionManagement>
 ```
-The `<repository>` tag uses our group repository to let Maven retrieve all dependencies through our Nexus.
+The `<repository>` tag uses our group repository to let Maven retrieve dependencies through our Nexus.
+Specifically, it makes Maven look for direct dependencies of our project in the provided repositories.
+However, these dependencies can specify their own repositories in their own `pom.xml` files, which take precedence when downloading _their_ dependencies.
+To make sure that we recursively cache all dependency artifacts, we need to make the following addition to our `~/.m2/settings.xml`:
+
+```
+<mirrors>
+	<mirror>
+		<id>opencraft-group</id>
+		<url>https://opencraft-vm.labs.vu.nl/repository/opencraft-group/</url>
+		<mirrorOf>*</mirrorOf>
+	</mirror>
+</mirrors>
+```
+
+This tells Maven that it should use a mirror for all (`*`) repositories, available at `https://opencraft-vm.labs.vu.nl/repository/opencraft-group/`. To make this work, we need to make sure that all dependencies can be retrieved via the group repository by adding all required proxy repositories.
 
 An additional benefit of hosting our own artifact repository is the ability to host our own artifacts.
 We configure this by adding the `<distributionManagement>` tag.
