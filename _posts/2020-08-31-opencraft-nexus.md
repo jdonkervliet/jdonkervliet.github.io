@@ -234,7 +234,7 @@ We do this by adding the following code to our `pom.xml`:
 <repositories>
     <repository>
         <id>opencraft-group</id>
-        <url>https://opencraft-vm.labs.vu.nl/repository/opencraft-group/</url>
+        <url>https://opencraft.labs.vu.nl/repository/opencraft-group</url>
         <releases>
             <enabled>true</enabled>
         </releases>
@@ -264,13 +264,13 @@ To make sure that we recursively cache all dependency artifacts, we need to make
 <mirrors>
 	<mirror>
 		<id>opencraft-group</id>
-		<url>https://opencraft-vm.labs.vu.nl/repository/opencraft-group/</url>
+		<url>https://opencraft.labs.vu.nl/repository/opencraft-group</url>
 		<mirrorOf>*</mirrorOf>
 	</mirror>
 </mirrors>
 ```
 
-This tells Maven that it should use a mirror for all (`*`) repositories, available at `https://opencraft-vm.labs.vu.nl/repository/opencraft-group/`. To make this work, we need to make sure that all dependencies can be retrieved via the group repository by adding all required proxy repositories.
+This tells Maven that it should use a mirror for all (`*`) repositories, available at `https://opencraft.labs.vu.nl/repository/opencraft-group`. To make this work, we need to make sure that all dependencies can be retrieved via the group repository by adding all required proxy repositories.
 
 An additional benefit of hosting our own artifact repository is the ability to host our own artifacts.
 We configure this by adding the `<distributionManagement>` tag.
