@@ -5,6 +5,8 @@ date:   2020-08-24
 tags: software-engineering
 ---
 
+Failing hard drives and general system unavailablity every other week made me migrate more than 30 software repositories to a managed service.
+
 For several years, the research group I'm a part of has been using a self-hosted GitLab instance to host their software repositories.
 There are clear benefits to this approach: no limits on the number of (private) repositories or amount of storage, and full control over the hardware.
 However, with the hardware underlying our self-hosted instance reaching end-of-life, and limited time for maintenance, it was time to look for another solution. Fortunately, GitHub just expanded the capabilities of their [free tier](https://github.blog/2020-04-14-github-is-now-free-for-teams/). Because we already had several public projects on GitHub, we decided move from our self-hosted GitLab instance to GitHub.
