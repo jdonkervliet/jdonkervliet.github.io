@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Teaching Cloud Computing at restart.network"
 date:   2017-05-09 23:30:57 +0200
 tags: education

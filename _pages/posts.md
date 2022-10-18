@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Posts
+title: Blog
 permalink: /posts-year/
 ---
 

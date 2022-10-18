@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Setting up a Nexus Artifact Repository"
 date:   2020-08-31
 tags: software-engineering

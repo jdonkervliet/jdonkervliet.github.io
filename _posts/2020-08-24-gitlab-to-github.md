@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Moving from GitLab to GitHub"
 date:   2020-08-24
 tags: software-engineering

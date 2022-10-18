@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Including the Git Commit Hash in a Runnable Jar"
 date:   2021-10-22
 tags: software-engineering maven java

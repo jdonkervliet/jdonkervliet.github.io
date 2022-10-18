@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Posts
+title: Blog
 permalink: /posts-tag/
 ---
 
