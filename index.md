@@ -4,7 +4,7 @@ permalink: /
 ---
 
 
-I am both a PhD student and teacher at the [Vrije Universiteit Amsterdam][url-vu]. I document this adventure on this website and on [twitter][url-twitter]. 
+I am a PhD student and teacher at the [Vrije Universiteit Amsterdam][url-vu]. I document this adventure on this website and on [twitter][url-twitter].
 
 # Professional
 
