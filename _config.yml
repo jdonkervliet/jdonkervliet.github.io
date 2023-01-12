@@ -26,9 +26,10 @@ logo: /images/jesse.jpg
 # Build settings
 markdown: kramdown
 #theme: minima
-remote_theme: "mmistakes/so-simple-theme"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -42,8 +43,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Estimate read time for each article
-read_time: true
+include: ["_pages"]
 
 tag_archive_path: "/posts-tag/#"
 
@@ -61,3 +61,25 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/jdonkervliet
     icon: fab fa-twitter-square
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      show_date: true
+      comments: false
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
