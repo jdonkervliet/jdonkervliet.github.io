@@ -6,7 +6,7 @@ tags: research news article
 
 I'm proud to announce our work ''Meterstick: Benchmarking Performance Variability in Cloud and Self-hosted Minecraft-like Games'' has been accepted at [ICPE 2023](https://icpe2023.spec.org/)!
 
-The work is lead by [Jerrit Eickhoff](https://www.linkedin.com/in/jerrit-eickhoff/), who completed this work over the course of his bachelor's honours and bachelor thesis projects at VU Amsterdam. Well done, Jerrit!
+The work is led by [Jerrit Eickhoff](https://www.linkedin.com/in/jerrit-eickhoff/), who completed this work over the course of his bachelor's honours and bachelor thesis projects at VU Amsterdam. Well done, Jerrit!
 
 Meterstick abstract:
 
