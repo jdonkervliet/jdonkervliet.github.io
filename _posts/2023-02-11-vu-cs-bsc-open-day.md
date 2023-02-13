@@ -8,4 +8,4 @@ I represented Vrije Universiteit (VU) Amsterdam's Computer Science department th
 It was great to see interest from people all over the world for studying computer science at VU.
 I hope to see you in Amsterdam!
 
-![VU Open Day Computer Science Bachelor](../images/open-day.png)
+![VU Open Day Computer Science Bachelor](/images/open-day.png)
