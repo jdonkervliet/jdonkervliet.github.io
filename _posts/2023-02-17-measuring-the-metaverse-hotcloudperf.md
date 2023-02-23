@@ -10,6 +10,7 @@ In this work, we design and conduct experiments using the Meta Quest Pro VR head
 and obtain surprising results.
 
  The full paper is available [here](https://atlarge-research.com/pdfs/2023-jansen-measuringthemetaverse.pdf).
+ All our artifacts and data are available [here](https://github.com/atlarge-research/measuring-the-metaverse).
  
  Abstract:
 
