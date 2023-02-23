@@ -33,4 +33,4 @@ of 7.4 the performance requirements. We derive actionable insights
 for game-developers, game-operators, and other stakeholders to
 tame performance variability.
 
-If you want to know more, let's have a chat at ICPE in Coimbra!
+If you want to know more, check out [the full paper](https://atlarge-research.com/pdfs/2023-jeickhoff-Meterstick-ICPE2023.pdf) and let's have a chat at ICPE in Coimbra!
