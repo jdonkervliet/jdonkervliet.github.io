@@ -6,7 +6,7 @@ tags: research news article
 
 I'm proud to announce our work ''Can My WiFi Handle the Metaverse? A Performance Evaluation Of Meta’s Flagship Virtual Reality Hardware'' has been accepted at [HotCloudPerf 2023](https://hotcloudperf.spec.org/)!
 
-In this work, we design and conduct experiments using the Meta Quest Pro VR headset to determine if modern WiFi networks provide sufficiently good performance to support the much anticipated metaverse,
+In this work, we design and conduct experiments using the Meta Quest Pro VR headset to determine if modern WiFi networks provide sufficiently good performance to support the much-anticipated metaverse,
 and obtain surprising results.
 
  The full paper is available [here](https://atlarge-research.com/pdfs/2023-jansen-measuringthemetaverse.pdf).
