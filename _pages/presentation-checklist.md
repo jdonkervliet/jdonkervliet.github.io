@@ -1,6 +1,6 @@
 ---
 title:  "Checklist for Talks"
-permalink: /talks
+permalink: /howtopresent
 ---
 
 A checklist for talks and presentations, for the benefit of myself and students I work with.
