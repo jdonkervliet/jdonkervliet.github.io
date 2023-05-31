@@ -14,7 +14,10 @@ A checklist for talks and presentations, for the benefit of myself and students 
   - During the presentation, remind the audience when you address a research question.
 - Presentation conveys core contributions (e.g., design, experiment results), but skips unnecessary details
 - If you present a design
-  - Discuss the design requirements
+  - Explain the design requirements
+  - Explain the design overview
+  - Explain detailed parts of the design if necessary
+  - Explain how your design addresses the design requirements
 - For each result, sufficient time (e.g., 2 minutes) allocated to present the plot/table:
   - Say what the plot shows on a high level (e.g., provides evidence for a claim made in paper)
   - Explain the horizontal axis
