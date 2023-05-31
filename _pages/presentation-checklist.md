@@ -1,5 +1,5 @@
 ---
-title:  "Talks"
+title:  "Checklist for Talks"
 permalink: /talks
 ---
 
