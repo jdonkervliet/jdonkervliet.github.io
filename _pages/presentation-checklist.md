@@ -7,7 +7,7 @@ A checklist for talks and presentations, for the benefit of myself and students 
 
 - Slides have slide numbers
 - All text (including text in plots) is readable (font size ≥ 28)
-- Number of slides ∈ [½×minutes, minutes]
+- Take at least 1 to 2 minutes for each slide. E.g., if you have 10 minutes for your presentation, you have 5 to 10 slides.
 - Presentation starts with WHY: societal context and problem statement
 - If you present research questions
   - The research questions are addressed throughout the presentation (probably through the contributions).
