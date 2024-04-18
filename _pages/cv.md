@@ -30,6 +30,8 @@ For full list of publications, see my [publication page](https://atlarge-researc
 
 - Editor for the [SPEC RG](https://research.spec.org/) Newsletter 2024
 - Web chair for [CCGRID 2024](https://2024.ccgrid-conference.org/)
+- Artifact reviewer for [CCGRID 2024](https://2024.ccgrid-conference.org/)
+- Subreviewer for [CCGRID 2023](https://ccgrid2023.iisc.ac.in/)
 - Created end-of-chapter exercises for **Computer Networks, 6th edition**, Tanenbaum, Feamster, Wetherall. 2018. ([link](https://computernetworksbook.com/))
 
 [url-tudelft]: https://www.tudelft.nl/en/
