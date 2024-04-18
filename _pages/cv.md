@@ -27,7 +27,7 @@ For full list of publications, see my [publication page](https://atlarge-researc
 
 ## Community
 
-- Editor for the SPEC RG Newsletter 2024
+- Editor for the [SPEC RG](https://research.spec.org/) Newsletter 2024
 - Web chair for [CCGRID 2024](https://2024.ccgrid-conference.org/)
 - Created end-of-chapter exercises for **Computer Networks, 6th edition**, Tanenbaum, Feamster, Wetherall. 2018. ([link](https://computernetworksbook.com/))
 
