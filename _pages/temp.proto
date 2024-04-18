@@ -1,0 +1,14 @@
+message Input {
+    bool hasChanged;
+    optional bool left;
+    optional bool right;
+    optional bool up;
+    optional bool down;
+    optional bool space;
+    optional bool z;
+};
+
+message Inputs {
+    uint32 sequenceNumber;
+    repeated Input input;
+};
