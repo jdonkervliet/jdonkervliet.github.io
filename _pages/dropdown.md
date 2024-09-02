@@ -1,16 +1,10 @@
 ---
 layout: page
-title: submenus
-nav: true
-nav_order: 8
+title: other
+nav: false
+nav_order: 98
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
-  - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: metaverse
+    permalink: /metaverse/
 ---
