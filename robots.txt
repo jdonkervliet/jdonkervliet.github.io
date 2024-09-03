@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jdonkervliet.com/sitemap.xml
+Sitemap: https://jdonkervliet.github.io/sitemap.xml
