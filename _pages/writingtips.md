@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Writing Tips for Students"
+title: "Writing Tips for Students"
 permalink: /writingtips
 ---
 

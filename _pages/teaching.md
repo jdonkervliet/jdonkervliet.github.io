@@ -24,14 +24,11 @@ In addition to teaching courses, I also supervise multiple students and student 
 | Computer Organization | Teaching Assistant | 2014-2016       | 1st Year CS BSc | [TUD][url-tudelft] |
 
 [url-twitter]: http://www.twitter.com/jdonkervliet
-
 [url-bsc-thesis]: https://repository.tudelft.nl/islandora/object/uuid%3Aaa101139-5fe5-457d-85f5-cf939cfe3868?collection=education
 [url-msc-thesis]: https://repository.tudelft.nl/islandora/object/uuid%3A4045d6a2-87ae-4397-8898-8e992fa0652c?collection=education
-
 [url-atlarge]: https://atlarge-research.com/
 [url-atlarge-opencraft]: https://atlarge-research.com/opencraft/
 [url-atlarge-jdonkervliet]: https://atlarge-research.com/jdonkervliet/
-
 [url-tudelft]: https://www.tudelft.nl/en/
 [url-vu]: https://www.vu.nl/en/
 

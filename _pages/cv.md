@@ -11,18 +11,17 @@ nav_order: 99
 #   sidebar: left
 ---
 
-
 ## Research
 
 Below is a list of selected articles.
 For full list of publications, see my [publication page](https://atlarge-research.com/jdonkervliet/).
 
-- **Servo: Increasing the Scalability of Modifiable Virtual Environments Using Serverless Computing**, *ICDCS 2023*, Jesse Donkervliet, Javier Ron, Junyan Li, Tiberiu Iancu, Cristina L. Abad, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/2023-donkervliet-icdcs-servo.pdf))
-- **Can My WiFi Handle the Metaverse? A Performance Evaluation Of Meta’s Flagship Virtual Reality Hardware**, *HotCloudPerf 2023*, Jesse Donkervliet, Matthijs Jansen, Animesh Trivedi, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/2023-jansen-measuringthemetaverse.pdf))
-- **Meterstick: Benchmarking Performance Variability in Cloud and Self-hosted Minecraft-like Games**, *ICPE 2023*, Jerrit Eickhoff, Jesse Donkervliet, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/2023-jeickhoff-Meterstick-ICPE2023.pdf))
-- **Dyconits: Scaling Minecraft-like Services through Dynamically Managed Inconsistency**, *ICDCS 2021*, Jesse Donkervliet, Jim Cuijpers, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/icdcs21-dyconit-paper.pdf))
-- **Towards Supporting Millions of Users in Modifiable Virtual Environments by Redesigning Minecraft-Like Games as Serverless Systems**, *HotCloud 2020*, Jesse Donkervliet, Animesh Trivedi, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/hotcloud20-paper-donkervliet.pdf))
-- **Yardstick: A Benchmark for Minecraft-like Services**, *ICPE 2019*, Jerom van der Sar, Jesse Donkervliet, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/jvdsar-yardstick-benchmark-icpe-2019.pdf))
+- **Servo: Increasing the Scalability of Modifiable Virtual Environments Using Serverless Computing**, _ICDCS 2023_, Jesse Donkervliet, Javier Ron, Junyan Li, Tiberiu Iancu, Cristina L. Abad, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/2023-donkervliet-icdcs-servo.pdf))
+- **Can My WiFi Handle the Metaverse? A Performance Evaluation Of Meta’s Flagship Virtual Reality Hardware**, _HotCloudPerf 2023_, Jesse Donkervliet, Matthijs Jansen, Animesh Trivedi, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/2023-jansen-measuringthemetaverse.pdf))
+- **Meterstick: Benchmarking Performance Variability in Cloud and Self-hosted Minecraft-like Games**, _ICPE 2023_, Jerrit Eickhoff, Jesse Donkervliet, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/2023-jeickhoff-Meterstick-ICPE2023.pdf))
+- **Dyconits: Scaling Minecraft-like Services through Dynamically Managed Inconsistency**, _ICDCS 2021_, Jesse Donkervliet, Jim Cuijpers, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/icdcs21-dyconit-paper.pdf))
+- **Towards Supporting Millions of Users in Modifiable Virtual Environments by Redesigning Minecraft-Like Games as Serverless Systems**, _HotCloud 2020_, Jesse Donkervliet, Animesh Trivedi, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/hotcloud20-paper-donkervliet.pdf))
+- **Yardstick: A Benchmark for Minecraft-like Services**, _ICPE 2019_, Jerom van der Sar, Jesse Donkervliet, Alexandru Iosup ([pdf](https://atlarge-research.com/pdfs/jvdsar-yardstick-benchmark-icpe-2019.pdf))
 
 ## Teaching
 
@@ -45,4 +44,3 @@ For full list of publications, see my [publication page](https://atlarge-researc
 
 [url-tudelft]: https://www.tudelft.nl/en/
 [url-vu]: https://www.vu.nl/en/
-

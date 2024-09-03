@@ -1,6 +1,6 @@
 ---
-title:  "VU Amsterdam Open Day — Computer Science Bachelor"
-date:   2023-02-11
+title: "VU Amsterdam Open Day — Computer Science Bachelor"
+date: 2023-02-11
 tags: news
 layout: post
 ---

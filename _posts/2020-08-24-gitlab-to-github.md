@@ -1,6 +1,6 @@
 ---
-title:  "Moving from GitLab to GitHub"
-date:   2020-08-24
+title: "Moving from GitLab to GitHub"
+date: 2020-08-24
 tags: software-engineering
 layout: post
 ---
@@ -24,7 +24,7 @@ After migrating the first few repositories by hand,[^1] I found out you can impo
 
 Unfortunately, I quickly ran into trouble using this method. Most of our GitLab repositories are only visible to registered users. To read the repository, the user needs to log in. Although GitHub's import tool registered this and asked for my credentials, the result was the following message:
 
->  No source repositories were detected at \<repo_url>. Please check the URL and try again. 
+> No source repositories were detected at \<repo_url>. Please check the URL and try again.
 
 Because I knew the repo URL to be correct, it took a while before I figured that my two-factor authentication (2FA) was the issue. Thank you, error message!
 
@@ -37,4 +37,4 @@ Because many repositories belonged to single developers, only a few repositories
 
 Because I did not want to lose data, I searched the Internet for third-party tools that can do the job. I quickly found [node-gitlab-2-github](https://github.com/piceaTech/node-gitlab-2-github), which works reasonably well. Among other things, it allows you to import issues and pull requests. It can also map GitLab usernames to GitHub usernames, which prevents @-mentions from breaking. Its README is clear, and the process is straightforward. Get access tokens for both GitLab and GitHub, fill in the `settings.ts` file, and let the script do its work.
 
-[^1]: ```git remote add github <repo_url> && git push --mirror github```
+[^1]: `git remote add github <repo_url> && git push --mirror github`

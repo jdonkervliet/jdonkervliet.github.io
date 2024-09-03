@@ -1,6 +1,6 @@
 ---
-title:  "Setting up a Nexus Artifact Repository"
-date:   2020-08-31
+title: "Setting up a Nexus Artifact Repository"
+date: 2020-08-31
 tags: software-engineering
 layout: post
 ---
@@ -213,7 +213,7 @@ Here we create several Maven repositories for Opencraft:
 
 1. Several _proxy_ repositories, which point to other remote artifact repositories that contain Opencraft dependencies.
 1. Two _hosted_ repositories, `opencraft-releases` and `opencraft-snapshots`, where we publish Opencraft artifacts.
-2. One _group_ repository, `opencraft-group`, which combines all other repositories and makes them available through a single URL.
+1. One _group_ repository, `opencraft-group`, which combines all other repositories and makes them available through a single URL.
 
 The proxy repositories, combined with their caching feature, are what allow us to meet the [requirements](#requirements) we formulated at the start of this post.
 Once we obtain a dependency artifact, we need it to be permanently available (Requirement 1) and prevent it from changing (Requirement 2). However, some of these dependencies are only hosted for a limited amount of time, or are published as snapshots.
@@ -255,6 +255,7 @@ We do this by adding the following code to our `pom.xml`:
     </snapshotRepository>
 </distributionManagement>
 ```
+
 The `<repository>` tag uses our group repository to let Maven retrieve dependencies through our Nexus.
 Specifically, it makes Maven look for direct dependencies of our project in the provided repositories.
 However, these dependencies can specify their own repositories in their own `pom.xml` files, which take precedence when downloading _their_ dependencies.
@@ -314,9 +315,9 @@ As a bonus, we can use the Nexus to publish our own artifacts, making it easier 
 1. <https://blog.sonatype.com/maxences-technical-corner>
 2. <https://hub.docker.com/r/sonatype/nexus3/>
 3. <https://stackoverflow.com/questions/36879595/cant-use-nexus-repository-manager-3-0-default-admin-user>
-2. <https://www.freecodecamp.org/news/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2/>
-3. <https://blog.sonatype.com/running-the-nexus-platform-behind-nginx-using-docker>
-3. <https://stackoverflow.com/questions/36879595/cant-use-nexus-repository-manager-3-0-default-admin-user>
-4. <https://github.com/030/n3dr>
-5. <https://www.mojohaus.org/versions-maven-plugin/examples/lock-snapshots.html>
-6. <https://docs.github.com/en/actions/language-and-framework-guides/publishing-java-packages-with-maven>
+4. <https://www.freecodecamp.org/news/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2/>
+5. <https://blog.sonatype.com/running-the-nexus-platform-behind-nginx-using-docker>
+6. <https://stackoverflow.com/questions/36879595/cant-use-nexus-repository-manager-3-0-default-admin-user>
+7. <https://github.com/030/n3dr>
+8. <https://www.mojohaus.org/versions-maven-plugin/examples/lock-snapshots.html>
+9. <https://docs.github.com/en/actions/language-and-framework-guides/publishing-java-packages-with-maven>

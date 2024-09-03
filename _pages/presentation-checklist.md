@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Checklist for Talks"
+title: "Checklist for Talks"
 permalink: /howtopresent
 ---
 

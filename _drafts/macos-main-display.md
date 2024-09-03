@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Setting Your Main Display on MacOS
+title: Setting Your Main Display on MacOS
 tags: technology
 ---
 

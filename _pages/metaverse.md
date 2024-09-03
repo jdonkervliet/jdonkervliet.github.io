@@ -12,7 +12,7 @@ nav_order: 98
 ## Novels
 
 1. Neuromancer
-2. **Snow Crash** (<-- introduced the term *metaverse*!)
+2. **Snow Crash** (<-- introduced the term _metaverse_)
 3. Ready Player One
 
 ## Movies
@@ -37,10 +37,10 @@ nav_order: 98
 
 ## Head-Mounted Displays
 
-1. *Earliest demo*
+1. _Earliest demo_
 2. EyePhone
 3. Oculus Rift
-4. Apple Vision Pro 
+4. Apple Vision Pro
 
 # People
 
