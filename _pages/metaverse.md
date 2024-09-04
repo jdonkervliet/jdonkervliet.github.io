@@ -42,9 +42,8 @@ nav_order: 98
 3. Oculus Rift
 4. Apple Vision Pro
 
-# People
+# Talks and Interviews
 
-## William G Burns III
-
+- [https://www.matthewball.co/all/sweeneystephenson](https://www.matthewball.co/all/sweeneystephenson)
 - [https://www.linkedin.com/pulse/everything-you-know-metaverse-wrong-william-burns-iii/](https://www.linkedin.com/pulse/everything-you-know-metaverse-wrong-william-burns-iii/)
 - [https://www.youtube.com/watch?v=MBbmTyNAO2w](https://www.youtube.com/watch?v=MBbmTyNAO2w)
