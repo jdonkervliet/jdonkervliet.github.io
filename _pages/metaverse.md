@@ -44,6 +44,6 @@ nav_order: 98
 
 # Talks and Interviews
 
-- [https://www.matthewball.co/all/sweeneystephenson](https://www.matthewball.co/all/sweeneystephenson)
-- [https://www.linkedin.com/pulse/everything-you-know-metaverse-wrong-william-burns-iii/](https://www.linkedin.com/pulse/everything-you-know-metaverse-wrong-william-burns-iii/)
-- [https://www.youtube.com/watch?v=MBbmTyNAO2w](https://www.youtube.com/watch?v=MBbmTyNAO2w)
+- <https://www.matthewball.co/all/sweeneystephenson>
+- <https://www.linkedin.com/pulse/everything-you-know-metaverse-wrong-william-burns-iii/>
+- <https://www.youtube.com/watch?v=MBbmTyNAO2w>
