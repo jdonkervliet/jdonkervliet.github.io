@@ -13,7 +13,7 @@ Since then, I've been unable to stop teaching. I continued TA'ing throughout my 
 
 In addition to teaching courses, I also supervise multiple students and student groups for courses and research projects associated with the [@Large group][url-atlarge].
 
-### Courses
+## Courses
 
 | Course                | Role               | When?           | Curriculum      | University         |
 | :-------------------- | :----------------- | :-------------- | :-------------- | :----------------- |
@@ -33,3 +33,29 @@ In addition to teaching courses, I also supervise multiple students and student 
 [url-vu]: https://www.vu.nl/en/
 
 [^fn-education]: This content can be, and is, used to entertainment and [educate](https://education.minecraft.net/) people around the world.
+
+<br/>
+
+## Slides Computer Networks
+
+Here you can find the slides for my Computer Networks course at VU.
+If you are a teacher, you are free to use them for your own courses,
+but please cite me.
+If you are a student, you are free to use them to study,
+but when in doubt, follow the book of your course.
+In both cases, please always check for errors.
+I am not responsible for incorrect answers on your exam. :)
+
+| Topic                    | Download                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Introduction             | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-1-intro-2023-2024.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-1-intro-2023-2024.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-1-intro-2023-2024-6up.pdf)]                                                          |
+| Physical Layer           | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-2-physical-layer-2023-2024.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-2-physical-layer-2023-2024.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-2-physical-layer-2023-2024-6up.pdf)]                               |
+| Data Link Layer Part 1   | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-3-data-link-layer-part-1-2022-2023.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-3-data-link-layer-part-1-2022-2023.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-3-data-link-layer-part-1-2022-2023-6up.pdf)]       |
+| Data Link Layer Part 2   | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-3-data-link-layer-part-2-2023-2024.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-3-data-link-layer-part-2-2023-2024.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-3-data-link-layer-part-2-2023-2024-6up.pdf)]       |
+| MAC Sublayer             | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-4-mac-sublayer-2023-2024.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-4-mac-sublayer-2023-2024.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-4-mac-sublayer-2023-2024-6up.pdf)]                                     |
+| Network Layer Part 1     | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-5-network-layer-part-1-2023-2024.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-5-network-layer-part-1-2023-2024.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-5-network-layer-part-1-2023-2024-6up.pdf)]             |
+| Network Layer Part 2     | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-5-network-layer-part-2-2023-2024.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-5-network-layer-part-2-2023-2024.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-5-network-layer-part-2-2023-2024-6up.pdf)]             |
+| Transport Layer Part 1   | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-1-2022-2023.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-1-2022-2023.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-1-2022-2023-6up.pdf)]       |
+| Transport Layer Part 2   | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-2-2022-2023.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-2-2022-2023.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-2-2022-2023-6up.pdf)]       |
+| Application Layer Part 1 | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-2023-2024.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-2023-2024.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-2023-2024-6up.pdf)]                      |
+| Application Layer Part 2 | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-part-2-2022-2023.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-part-2-2022-2023.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-part-2-2022-2023-6up.pdf)] |
