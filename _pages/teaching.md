@@ -13,15 +13,15 @@ Since then, I've been unable to stop teaching. I continued TA'ing throughout my 
 
 In addition to teaching courses, I also supervise multiple students and student groups for courses and research projects associated with the [@Large group][url-atlarge].
 
-## Courses
+## Course Overview
 
-| Course                | Role               | When?           | Curriculum      | University         |
-| :-------------------- | :----------------- | :-------------- | :-------------- | :----------------- |
-| Distributed Systems   | Teacher            | 2019, ...       | CS MSc          | [VU][url-vu]       |
-| Computer Networks     | Teacher            | 2018, 2019, ... | 1st Year CS BSc | [VU][url-vu]       |
-| Computer Networks     | Teacher            | 2018            | 2nd Year CS BSc | [TUD][url-tudelft] |
-| Computer Organization | Teacher            | 2017, 2018      | 1st Year CS BSc | [TUD][url-tudelft] |
-| Computer Organization | Teaching Assistant | 2014-2016       | 1st Year CS BSc | [TUD][url-tudelft] |
+| Course                                  | Role               | When?           | Curriculum      | University         |
+| :-------------------------------------- | :----------------- | :-------------- | :-------------- | :----------------- |
+| Distributed Systems                     | Teacher            | 2019, ...       | CS MSc          | [VU][url-vu]       |
+| [Computer Networks](#computer-networks) | Teacher            | 2018, 2019, ... | 1st Year CS BSc | [VU][url-vu]       |
+| Computer Networks                       | Teacher            | 2018            | 2nd Year CS BSc | [TUD][url-tudelft] |
+| Computer Organization                   | Teacher            | 2017, 2018      | 1st Year CS BSc | [TUD][url-tudelft] |
+| Computer Organization                   | Teaching Assistant | 2014-2016       | 1st Year CS BSc | [TUD][url-tudelft] |
 
 [url-twitter]: http://www.twitter.com/jdonkervliet
 [url-bsc-thesis]: https://repository.tudelft.nl/islandora/object/uuid%3Aaa101139-5fe5-457d-85f5-cf939cfe3868?collection=education
@@ -34,9 +34,9 @@ In addition to teaching courses, I also supervise multiple students and student 
 
 [^fn-education]: This content can be, and is, used to entertainment and [educate](https://education.minecraft.net/) people around the world.
 
-<br/>
+<br />
 
-## Slides Computer Networks
+## Computer Networks
 
 Here you can find the slides for my Computer Networks course at VU.
 If you are a teacher, you are free to use them for your own courses,
@@ -59,3 +59,19 @@ I am not responsible for incorrect answers on your exam. :)
 | Transport Layer Part 2   | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-2-2022-2023.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-2-2022-2023.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-6-transport-layer-part-2-2022-2023-6up.pdf)]       |
 | Application Layer Part 1 | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-2023-2024.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-2023-2024.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-2023-2024-6up.pdf)]                      |
 | Application Layer Part 2 | [[PPTX](/assets/pptx/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-part-2-2022-2023.pptx), [PDF](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-part-2-2022-2023.pdf), [Handout](/assets/pdf/computer-networks/slides-2024/jdonkervliet-computer-networks-chapter-7-application-layer-part-2-2022-2023-6up.pdf)] |
+
+<br />
+
+## Student Supervision
+
+### Master Theses
+
+{% include student_reports.liquid type="msc" %}
+
+### Bachelor Honours Projects
+
+{% include student_reports.liquid type="hp" %}
+
+### Bachelor Theses
+
+{% include student_reports.liquid type="bsc" %}

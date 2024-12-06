@@ -1,0 +1,11 @@
+{% assign reports = site.data.supervision | where: 'project', include.type | sort: 'year' | reverse %}
+{% for report in reports %}
+  {% assign id_name = report.author | replace: ' ', '-' %}
+  {% assign id = report.project | append: '-' | append: id_name | downcase %}
+  <span id="{{ id }}" style="scroll-margin-top: 66px;">
+    <b
+      ><a href="{{ report.pdf }}">{{ report.title }}</a></b
+    ><br>
+    {{ report.author }} ({{ report.year }})
+  </span>
+{% endfor %}
