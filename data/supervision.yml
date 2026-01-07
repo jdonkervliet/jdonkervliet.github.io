@@ -1,0 +1,154 @@
+- author: Jim Cuijpers
+  project: bsc
+  year: 2020
+  title: >
+    PorygonCraft: Improving and Measuring the Scalability of Modiﬁable Virtual
+    Environments using Dynamic Consistency Units
+  pdf: /pdf/students/202008-bsc-thesis-jim-cuijpers.pdf
+- author: Kevin Denneman
+  project: bsc
+  year: 2020
+  title: >
+    Analysing Player Behaviour in Minecraft-Like Games
+  pdf: /pdf/students/202008-bsc-thesis-kevin-denneman.pdf
+- author: Yann Regev
+  project: bsc
+  year: 2020
+  title: >
+    Design and Evaluation of a Cloud-operated Storage System for Minecraft-like
+    Games
+  pdf: /pdf/students/202008-bsc-thesis-yann-regev.pdf
+- author: Jerrit Eickhoff
+  project: hp
+  year: 2021
+  title: >
+    Evaluating the Performance of Player-Agnostic Systems of Minecraft-Like
+    Games using Environment-based Workloads
+  pdf: /pdf/students/202102-hp-report-jerrit-eickhoff.pdf
+- author: Tiberiu Iancu
+  project: hp
+  year: 2021
+  title: >
+    A Case Study in Scaling Minecraft Using Serverless Computing
+  pdf: "/pdf/students/202112-hp-report-tiberiu-iancu.pdf"
+- author: Jerrit Eickhoff
+  project: bsc
+  year: 2021
+  title: >
+    Meterstick: a Benchmarking Tool for Performance Variability in Cloud
+    Deployed Minecraft-like Games
+  pdf: /pdf/students/202106-bsc-thesis-jerrit-eickhoff.pdf
+- author: Milos Delgorge
+  project: bsc
+  year: 2021
+  title: >
+    ObserverCraft: a large scale in-game spectating system for Minecraft-like
+    games
+  pdf: "/pdf/students/202106-bsc-thesis-milos-delgorge.pdf"
+- author: Javier Ron
+  year: 2021
+  project: msc
+  title: >
+    Scaling the Simulation Core of Modifiable Virtual Environments with
+    Serverless Computing
+  pdf: "/pdf/students/202109-msc-thesis-javier-ron.pdf"
+- author: Junyan Li
+  year: 2021
+  project: msc
+  title: >
+    An Empirical Evaluation of Performance Variability in Serverless Modifiable
+    Virtual Environments
+  pdf: "/pdf/students/202108-msc-thesis-junyan-li.pdf"
+- author: Jakob Kyselica
+  year: 2022
+  project: msc
+  title: >
+    Analysis of Failures in Massive-Scale Multiplayer Online Games
+  pdf: "/pdf/students/202203-msc-thesis-jakob-kyselica.pdf"
+- author: Sven Lankester
+  year: 2023
+  project: bsc
+  title: >
+    Duplicraft: Serverless Non-Persistent Instances for Modifiable Virtual
+    Environments
+  pdf: "/pdf/students/202305-bsc-thesis-sven-lankester.pdf"
+- author: Rom Savidor
+  year: 2023
+  project: bsc
+  title: >
+    Understanding the Energy Impact of Cloud Gaming Through Large-Scale
+    Simulation
+  pdf: "/pdf/students/202308-bsc-thesis-rom-savidor.pdf"
+- author: Yuval Nir
+  year: 2023
+  project: bsc
+  title: >
+    Evaluating the Environmental Costs of Client-Server Gaming
+  pdf: "/pdf/students/202308-bsc-thesis-yuval-nir.pdf"
+- author: Victor Gavrilovici
+  project: bsc
+  year: 2024
+  title: >
+    Benchmarking Deployed Modifiable Virtual Environments across the Cloud-Edge
+    Continuum
+  pdf: "/pdf/students/202408-bsc-thesis-victor-gavrilovici.pdf"
+- author: Jerrit Eickhoff
+  project: msc
+  year: 2024
+  title: >
+    Polka: A Differentiated Deployment System for Online and Streamed Games,
+    Meta-verses, and Modifiable Virtual Environments
+  pdf: "/pdf/students/202403-msc-thesis-jerrit-eickhoff.pdf"
+- author: Zain Munir
+  project: bsc
+  year: 2024
+  title: >
+    Voxelsim - Designing a System for Programmable Environments within a
+    Modiﬁable Virtual Environment
+  pdf: "/pdf/students/202408-bsc-thesis-zain-munir.pdf"
+- author: Martin Karsai
+  project: bsc
+  year: 2024
+  title: >
+    Dynamically Managed Inconsistency in Distributed Systems: A Dyconit
+    Middleware for Publish-Subscribe Systems
+  pdf: "/pdf/students/202408-bsc-thesis-martin-karsai.pdf"
+- author: Elena Stroiu
+  project: bsc
+  year: 2024
+  title: >
+    Net-Celerity: A Benchmark for Player Activity Analysis of Gaming Network
+    Libraries
+  pdf: "/pdf/students/202408-bsc-thesis-elena-stroiu.pdf"
+- author: Guivari Amri
+  project: bsc
+  year: 2024
+  title: >
+    Benchmarking the performance impact of mods on Minecraft-like games
+  pdf: "/pdf/students/202408-bsc-thesis-guivari-amri.pdf"
+- author: Diar Kamberi
+  project: bsc
+  year: 2024
+  title: >
+    Lock-Step Simulation for Modifiable Virtual Environments (MVEs)
+  pdf: "/pdf/students/202408-bsc-thesis-diar-kamberi.pdf"
+- author: Dilano Doelwijt
+  project: bsc
+  year: 2024
+  title: >
+    Solarstick: A Evaluation Framework For JVM Configuration Impact on MVE
+    Performance
+  pdf: "/pdf/students/202408-bsc-thesis-dilano-doelwijt.pdf"
+- author: Joachim Bose
+  project: bsc
+  year: 2024
+  title: >
+    Evaluating performance of MVEs on VR with an experiment framework
+  pdf: "/pdf/students/202408-bsc-thesis-joachim-bose.pdf"
+- author: Benedict Rigler
+  project: bsc
+  year: 2024
+  title: >
+    Envirostick: Benchmarking Enviroment-based MVEWorkloads For Game Networking
+    Libraries
+  pdf: "/pdf/students/202408-bsc-thesis-benedict-rigler.pdf"

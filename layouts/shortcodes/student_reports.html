@@ -1,0 +1,23 @@
+{{ $type := .Get "type" }}   {{/* Get the 'include' parameter from shortcode */}}
+
+{{/* Step 1: Filter by project type */}}
+{{ $reports := slice }}
+{{ range .Site.Data.supervision }}
+  {{ if eq .project $type }}
+    {{ $reports = $reports | append . }}
+  {{ end }}
+{{ end }}
+
+{{/* Step 2: Sort by year descending */}}
+{{ $reports = sort $reports "year" "desc" }}
+
+{{/* Step 3: Loop over reports */}}
+{{ range $reports }}
+  {{ $idName := replace .author " " "-" }}
+  {{ $id := printf "%s-%s" .project $idName | lower }}
+
+  <p id="{{ $id }}">
+    <a href="{{ .pdf }}">{{ .title }}</a><br>
+    {{ .author }} ({{ .year }})
+  </p>
+{{ end }}

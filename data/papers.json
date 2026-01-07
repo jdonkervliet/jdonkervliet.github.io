@@ -1,0 +1,713 @@
+[
+  {
+    "DOI": "10.1145/3629527.3651421",
+    "URL": "https://doi.org/10.1145/3629527.3651421",
+    "author": [
+      {
+        "family": "Apsan",
+        "given": "Radu"
+      },
+      {
+        "family": "Ural",
+        "given": "Damla"
+      },
+      {
+        "family": "Daniëlse",
+        "given": "Paul"
+      },
+      {
+        "family": "Cursaru",
+        "given": "Vlad-Andrei"
+      },
+      {
+        "family": "Trinh",
+        "given": "Eames"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "Companion of the 15th ACM/SPEC international conference on performance engineering, ICPE 2024, london, united kingdom, may 7-11, 2024",
+    "editor": [
+      {
+        "family": "Balsamo",
+        "given": "Simonetta"
+      },
+      {
+        "family": "Knottenbelt",
+        "given": "William J."
+      },
+      {
+        "family": "Abad",
+        "given": "Cristina L."
+      },
+      {
+        "family": "Shang",
+        "given": "Weiyi"
+      }
+    ],
+    "id": "DBLP:conf/wosp/ApsanUDCTDI24",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "204-210",
+    "publisher": "ACM",
+    "title": "Towards a workload trace archive for metaverse systems",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/ICDCS57875.2023.00075",
+    "URL": "https://doi.org/10.1109/ICDCS57875.2023.00075",
+    "author": [
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Ron",
+        "given": "Javier"
+      },
+      {
+        "family": "Li",
+        "given": "Junyan"
+      },
+      {
+        "family": "Iancu",
+        "given": "Tiberiu"
+      },
+      {
+        "family": "Abad",
+        "given": "Cristina L."
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "43rd IEEE international conference on distributed computing systems, ICDCS 2023, hong kong, july 18-21, 2023",
+    "id": "DBLP:conf/icdcs/DonkervlietRLIAI23",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "829-840",
+    "publisher": "IEEE",
+    "title": "Servo: Increasing the scalability of modifiable virtual environments using serverless computing",
+    "title-short": "Servo",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3578244.3583724",
+    "URL": "https://doi.org/10.1145/3578244.3583724",
+    "author": [
+      {
+        "family": "Eickhoff",
+        "given": "Jerrit"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "Proceedings of the 2023 ACM/SPEC international conference on performance engineering, ICPE 2023, coimbra, portugal, april 15-19, 2023",
+    "editor": [
+      {
+        "family": "Vieira",
+        "given": "Marco"
+      },
+      {
+        "family": "Cardellini",
+        "given": "Valeria"
+      },
+      {
+        "family": "Marco",
+        "given": "Antinisca Di"
+      },
+      {
+        "family": "Tuma",
+        "given": "Petr"
+      }
+    ],
+    "id": "DBLP:conf/wosp/EickhoffDI23",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "173-185",
+    "publisher": "ACM",
+    "title": "Meterstick: Benchmarking performance variability in cloud and self-hosted minecraft-like games",
+    "title-short": "Meterstick",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3578245.3585022",
+    "URL": "https://doi.org/10.1145/3578245.3585022",
+    "author": [
+      {
+        "family": "Jansen",
+        "given": "Matthijs"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Trivedi",
+        "given": "Animesh"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "Companion of the 2023 ACM/SPEC international conference on performance engineering, ICPE 2023, coimbra, portugal, april 15-19, 2023",
+    "editor": [
+      {
+        "family": "Vieira",
+        "given": "Marco"
+      },
+      {
+        "family": "Cardellini",
+        "given": "Valeria"
+      },
+      {
+        "family": "Marco",
+        "given": "Antinisca Di"
+      },
+      {
+        "family": "Tuma",
+        "given": "Petr"
+      }
+    ],
+    "id": "DBLP:conf/wosp/JansenDTI23",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "297-303",
+    "publisher": "ACM",
+    "title": "Can my WiFi handle the metaverse? A performance evaluation of meta’s flagship virtual reality hardware",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.48550/ARXIV.2305.00032",
+    "URL": "https://doi.org/10.48550/arXiv.2305.00032",
+    "author": [
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Ron",
+        "given": "Javier"
+      },
+      {
+        "family": "Li",
+        "given": "Junyan"
+      },
+      {
+        "family": "Iancu",
+        "given": "Tiberiu"
+      },
+      {
+        "family": "Abad",
+        "given": "Cristina L."
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "CoRR",
+    "id": "DBLP:journals/corr/abs-2305-00032",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "title": "Servo: Increasing the scalability of modifiable virtual environments using serverless computing - extended technical report",
+    "title-short": "Servo",
+    "type": "article-journal",
+    "volume": "abs/2305.00032"
+  },
+  {
+    "DOI": "10.1109/ISPASS55109.2022.00018",
+    "URL": "https://doi.org/10.1109/ISPASS55109.2022.00018",
+    "author": [
+      {
+        "family": "Eickhoff",
+        "given": "Jerrit"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "International IEEE symposium on performance analysis of systems and software, ISPASS 2022, singapore, may 22-24, 2022",
+    "id": "DBLP:conf/ispass/EickhoffDI22",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "147-149",
+    "publisher": "IEEE",
+    "title": "Meterstick: Benchmarking performance variability in cloud and self-hosted minecraft-like games",
+    "title-short": "Meterstick",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/UCC56403.2022.00066",
+    "URL": "https://doi.org/10.1109/UCC56403.2022.00066",
+    "author": [
+      {
+        "family": "Talluri",
+        "given": "Sacheendra"
+      },
+      {
+        "family": "Lankester",
+        "given": "Sven"
+      },
+      {
+        "family": "Ene",
+        "given": "Bogdan"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Trivedi",
+        "given": "Animesh"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "15th IEEE/ACM international conference on utility and cloud computing, UCC 2022, vancouver, WA, USA, december 6-9, 2022",
+    "id": "DBLP:conf/ucc/TalluriLEDTI22",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "378-383",
+    "publisher": "IEEE",
+    "title": "Efficiently improving the performance of serverless applications with microtask-based scheduling",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/ICDCS51616.2021.00021",
+    "URL": "https://doi.org/10.1109/ICDCS51616.2021.00021",
+    "author": [
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Cuijpers",
+        "given": "Jim"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "41st IEEE international conference on distributed computing systems, ICDCS 2021, washington DC, USA, july 7-10, 2021",
+    "id": "DBLP:conf/icdcs/DonkervlietCI21",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "126-137",
+    "publisher": "IEEE",
+    "title": "Dyconits: Scaling minecraft-like services through dynamically managed inconsistency",
+    "title-short": "Dyconits",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3447545.3451186",
+    "URL": "https://doi.org/10.1145/3447545.3451186",
+    "author": [
+      {
+        "family": "Bieringa",
+        "given": "Richard"
+      },
+      {
+        "family": "Radhakrishnan",
+        "given": "Abijith"
+      },
+      {
+        "family": "Singh",
+        "given": "Tavneet"
+      },
+      {
+        "family": "Vos",
+        "given": "Sophie"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "ICPE ’21: ACM/SPEC international conference on performance engineering, virtual event, france, april 19-21, 2021, companion volume",
+    "editor": [
+      {
+        "family": "Bourcier",
+        "given": "Johann"
+      },
+      {
+        "dropping-particle": "(Jack)",
+        "family": "Jiang",
+        "given": "Zhen Ming"
+      },
+      {
+        "family": "Bezemer",
+        "given": "Cor-Paul"
+      },
+      {
+        "family": "Cortellessa",
+        "given": "Vittorio"
+      },
+      {
+        "family": "Pompeo",
+        "given": "Daniele Di"
+      },
+      {
+        "family": "Varbanescu",
+        "given": "Ana Lucia"
+      }
+    ],
+    "id": "DBLP:conf/wosp/BieringaRSVDI21",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "65-71",
+    "publisher": "ACM",
+    "title": "An empirical evaluation of the performance of video conferencing systems",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3447545.3451174",
+    "URL": "https://doi.org/10.1145/3447545.3451174",
+    "author": [
+      {
+        "family": "Cuijpers",
+        "given": "Jim"
+      },
+      {
+        "family": "Elsendoorn",
+        "given": "Kelvin"
+      },
+      {
+        "family": "Tjon-Joek-Tjien",
+        "given": "Ean-Dan"
+      },
+      {
+        "family": "Iesari",
+        "given": "Riccardo"
+      },
+      {
+        "family": "Casenove",
+        "given": "Federico"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "ICPE ’21: ACM/SPEC international conference on performance engineering, virtual event, france, april 19-21, 2021, companion volume",
+    "editor": [
+      {
+        "family": "Bourcier",
+        "given": "Johann"
+      },
+      {
+        "dropping-particle": "(Jack)",
+        "family": "Jiang",
+        "given": "Zhen Ming"
+      },
+      {
+        "family": "Bezemer",
+        "given": "Cor-Paul"
+      },
+      {
+        "family": "Cortellessa",
+        "given": "Vittorio"
+      },
+      {
+        "family": "Pompeo",
+        "given": "Daniele Di"
+      },
+      {
+        "family": "Varbanescu",
+        "given": "Ana Lucia"
+      }
+    ],
+    "id": "DBLP:conf/wosp/CuijpersETICDI21",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "171-174",
+    "publisher": "ACM",
+    "title": "An empirical evaluation of video conferencing systems used in industry, academia, and entertainment",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2112.06963",
+    "author": [
+      {
+        "family": "Eickhoff",
+        "given": "Jerrit"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "CoRR",
+    "id": "DBLP:journals/corr/abs-2112-06963",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "Meterstick: Benchmarking performance variability in cloud and self-hosted minecraft-like games extended technical report",
+    "title-short": "Meterstick",
+    "type": "article-journal",
+    "volume": "abs/2112.06963"
+  },
+  {
+    "URL": "https://www.usenix.org/conference/hotcloud20/presentation/donkervliet",
+    "author": [
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Trivedi",
+        "given": "Animesh"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "12th USENIX workshop on hot topics in cloud computing, HotCloud 2020, july 13-14, 2020",
+    "editor": [
+      {
+        "family": "Phanishayee",
+        "given": "Amar"
+      },
+      {
+        "family": "Stutsman",
+        "given": "Ryan"
+      }
+    ],
+    "id": "DBLP:conf/hotcloud/DonkervlietTI20",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "USENIX Association",
+    "title": "Towards supporting millions of users in modifiable virtual environments by redesigning minecraft-like games as serverless systems",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3297663.3310307",
+    "URL": "https://doi.org/10.1145/3297663.3310307",
+    "author": [
+      {
+        "dropping-particle": "van der",
+        "family": "Sar",
+        "given": "Jerom"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "Proceedings of the 2019 ACM/SPEC international conference on performance engineering, ICPE 2019, mumbai, india, april 7-11, 2019",
+    "editor": [
+      {
+        "family": "Apte",
+        "given": "Varsha"
+      },
+      {
+        "family": "Marco",
+        "given": "Antinisca Di"
+      },
+      {
+        "family": "Litoiu",
+        "given": "Marin"
+      },
+      {
+        "family": "Merseguer",
+        "given": "José"
+      }
+    ],
+    "id": "DBLP:conf/wosp/SarDI19",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "243-253",
+    "publisher": "ACM",
+    "title": "Yardstick: A benchmark for minecraft-like services",
+    "title-short": "Yardstick",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/MC.2015.206",
+    "URL": "https://doi.org/10.1109/MC.2015.206",
+    "author": [
+      {
+        "dropping-particle": "van",
+        "family": "Beek",
+        "given": "Vincent"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Hegeman",
+        "given": "Tim"
+      },
+      {
+        "family": "Hugtenburg",
+        "given": "Stefan"
+      },
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      }
+    ],
+    "container-title": "Computer",
+    "id": "DBLP:journals/computer/BeekDHHI15",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "46-54",
+    "title": "Self-expressive management of business-critical workloads in virtualized datacenters",
+    "type": "article-journal",
+    "volume": "48"
+  },
+  {
+    "DOI": "10.1109/ICMEW.2014.6890684",
+    "URL": "https://doi.org/10.1109/ICMEW.2014.6890684",
+    "author": [
+      {
+        "family": "Iosup",
+        "given": "Alexandru"
+      },
+      {
+        "family": "Shen",
+        "given": "Siqi"
+      },
+      {
+        "family": "Guo",
+        "given": "Yong"
+      },
+      {
+        "family": "Hugtenburg",
+        "given": "Stefan"
+      },
+      {
+        "family": "Donkervliet",
+        "given": "Jesse"
+      },
+      {
+        "family": "Prodan",
+        "given": "Radu"
+      }
+    ],
+    "container-title": "2013 IEEE international conference on multimedia and expo workshops, chengdu, china, july 14-18, 2014",
+    "id": "DBLP:conf/icmcs/IosupSGHDP14",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "1-4",
+    "publisher": "IEEE Computer Society",
+    "title": "Massivizing online games using cloud computing: A vision",
+    "title-short": "Massivizing online games using cloud computing",
+    "type": "paper-conference"
+  }
+]
