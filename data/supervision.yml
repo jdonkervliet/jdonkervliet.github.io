@@ -188,3 +188,15 @@
   title: >
     OpenDCN: A Unified High-Level Compute-Network Co-Simulation Framework, with Trace-Based, Interactive, and Traffic-Pattern Network Simulation
   pdf: "/pdf/students/202508-bsc-thesis-alessio-leonardo-tomei.pdf"
+- author: Gleb Mishchenko
+  project: hp
+  year: 2024
+  title: >
+    Does Your Server Need SSD? Applying General Purpose Minecraft-Like Games Benchmark Framework to Study Storage Performance Implications
+  pdf: "/pdf/students/202411-hp-report-gleb-mishchenko.pdf"
+- author: Alessio Leonardo Tomei
+  project: hp
+  year: 2025
+  title: >
+    Exploring Energy Efficiency and QoS Impact of Network Design in Datacenters Through Large-Scale Simulation
+  pdf: "/pdf/students/202504-hp-report-alessio-leonardo-tomei.pdf"
