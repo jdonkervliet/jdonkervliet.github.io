@@ -152,3 +152,39 @@
     Envirostick: Benchmarking Enviroment-based MVEWorkloads For Game Networking
     Libraries
   pdf: "/pdf/students/202408-bsc-thesis-benedict-rigler.pdf"
+- author: Alexandr Coştei
+  project: bsc
+  year: 2025
+  title: >
+    Designing a Protocol-Agnostic Benchmark for MVEs
+  pdf: "/pdf/students/202508-bsc-thesis-alexandr-costei.pdf"
+- author: Erik Doytchinov
+  project: bsc
+  year: 2025
+  title: >
+    Design and Implementation of a Player-Behavior Tracing System for MVEs
+  pdf: "/pdf/students/202508-bsc-thesis-erik-doytchinov.pdf"
+- author: Shane Prent
+  project: bsc
+  year: 2025
+  title: >
+    Design and Evaluation of a Novel Virtual-World Architecture: Separating Simulator and State
+  pdf: "/pdf/students/202508-bsc-thesis-shane-prent.pdf"
+- author: Alfred Daimari
+  project: msc
+  year: 2025
+  title: >
+    VoxelBench: A Performance Benchmark for Distributed MVEs
+  pdf: "/pdf/students/202503-msc-thesis-alfred-daimari.pdf"
+- author: Misha Rigot
+  project: msc
+  year: 2025
+  title: >
+    ProcGen: Designing a Serverless Procedural Content Generation System for Virtual Environments
+  pdf: "/pdf/students/202503-msc-thesis-misha-rigot.pdf"
+- author: Alessio Leonardo Tomei
+  project: bsc
+  year: 2025
+  title: >
+    OpenDCN: A Unified High-Level Compute-Network Co-Simulation Framework, with Trace-Based, Interactive, and Traffic-Pattern Network Simulation
+  pdf: "/pdf/students/202508-bsc-thesis-alessio-leonardo-tomei.pdf"
