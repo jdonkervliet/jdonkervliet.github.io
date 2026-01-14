@@ -4,11 +4,7 @@ menus = 'main'
 weight = 60
 +++
 
-This page shows my [scientific publications](#publications) and my [community work](#community).
-
-# Publications
-
-{{< publications >}}
+This page shows my [community work](#community) and my [scientific publications](#publications).
 
 # Community
 
@@ -19,3 +15,7 @@ This page shows my [scientific publications](#publications) and my [community wo
 - Artifact reviewer for [CCGRID 2024](https://2024.ccgrid-conference.org/)
 - Subreviewer for [CCGRID 2023](https://ccgrid2023.iisc.ac.in/)
 - ⭐️ Created end-of-chapter exercises for **Computer Networks, 6th edition**, Tanenbaum, Feamster, Wetherall. 2018. ([link](https://computernetworksbook.com/))
+
+# Publications
+
+{{< publications >}}
