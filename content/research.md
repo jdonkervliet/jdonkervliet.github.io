@@ -8,6 +8,7 @@ This page shows my [community work](#community) and my [scientific publications]
 
 # Community
 
+- Reviewer for [ICPE 2026](https://icpe2026.spec.org/)
 - Reviewer for [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc), June 2025
 - Reviewer for [IEEE Internet Computing](https://www.computer.org/csdl/magazine/ic), April 2025
 - Editor for the [SPEC RG](https://research.spec.org/) Newsletter 2024
