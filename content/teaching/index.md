@@ -61,6 +61,16 @@ I am not responsible for incorrect answers on your exam. :)
 
 ## Student Supervision
 
+### Highlights
+
+I am happy to have collaborated with many students over the years.
+Some particularly successful projects lead to student publications:
+
+{{< studentpapers "10.1145/3297663.3310307" "10.1145/3578244.3583724" "10.1145/3447545.3451186" "10.1145/3447545.3451174" "10.1145/3629527.3651421" >}}
+
+These articles are related to my PhD research.  
+[More about my research](/research)
+
 ### Master Theses
 
 {{< student_reports type="msc" >}}

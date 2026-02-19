@@ -1,0 +1,43 @@
+{{ $paperDict := dict }}
+{{ $sitePapers := .Site.Data.papers }}
+{{- range .Params }}
+    {{ $matches := where $sitePapers "DOI" "==" . }}
+    {{ with index $matches 0 }}
+        {{ $paper := . }}
+        {{ $yearFloat := index (index (index .issued "date-parts") 0) 0 }}
+        {{ $year := printf "%.0f" $yearFloat }}
+        {{- if not (isset $paperDict $year) }}
+            {{ $paperDict = merge $paperDict (dict $year slice) }}
+        {{- end }}
+        {{ $list := index $paperDict $year }}
+        {{ $list = $list | append $paper }}
+        {{ $paperDict = merge $paperDict (dict $year $list) }}
+    {{ end }}
+{{- end }}
+
+{{ $years := slice }}
+{{- range $year, $_ := $paperDict }}
+    {{ $years = $years | append $year }}
+{{- end }}
+{{ $sortedYears := sort $years "value" "desc" }}
+
+{{- range $sortedYears }}
+    {{- range index $paperDict . }}
+        <p>
+        <b>{{ title .title}}</b></br>
+        {{ $sep := "" }}
+        {{- range .author }}
+            {{- $sep }}
+            {{- if (and (eq .given "Jesse") (eq .family "Donkervliet"))}}
+                <u>{{- .given }} {{ .family }}</u>
+            {{- else }}
+                {{- .given }} {{ .family }}
+            {{- end }}
+            {{- $sep = ", " -}}
+        {{- end }}</br>
+        <i>{{ title (index . "container-title") }}</i></br>
+        <a href="{{ .URL }}" target="_blank">{{ .URL }}</a>
+        </p>
+    {{- end }}
+{{- end }}
+
