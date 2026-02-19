@@ -7,7 +7,7 @@ weight = 20
 I am a Computer Science teacher at [Vrije Universiteit (VU) Amsterdam](url-vu). Before being at VU, I had a similar position at [Delft University of Technology (TU Delft)](url-tudelft).
 As a teacher, my primary responsibilities are teaching the undergraduate [Computer Networks](#computer-networks) course and [supervising student research projects](#student-supervision).
 I also teach in the Distributed Systems course in the Computer Science master program.
-My teaching activities are generally closely related to the research I do as part of the [@Large research group][url-atlarge].
+My teaching activities are generally closely related to [my research](/research) that I do as part of the [@Large research group][url-atlarge].
 
 ## Course Overview
 
