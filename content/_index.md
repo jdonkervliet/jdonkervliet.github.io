@@ -7,7 +7,7 @@ weight = 1
 
 ![This is me](jesse_med.jpg)
 
-I am a PhD student in the [AtLarge Research Group](https://atlarge-research.com/) and teacher at the [Vrije Universiteit (VU) Amsterdam](https://vu.nl/nl).
+I am a PhD student in the [@Large Research Group](https://atlarge-research.com/) and teacher at the [Vrije Universiteit (VU) Amsterdam](https://vu.nl/nl).
 
 My research focuses on creating large-scale modifiable virtual environments (e.g., Minecraft and Roblox).
 These environments are challenging to scale up due to simultaneous low-latency and high-consistency requirements.
