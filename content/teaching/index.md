@@ -1,7 +1,7 @@
 +++
 title = 'Teaching'
 menus = 'main'
-weight = 20
+weight = 60
 +++
 
 I am a Computer Science teacher at [Vrije Universiteit (VU) Amsterdam](url-vu). Before being at VU, I had a similar position at [Delft University of Technology (TU Delft)](url-tudelft).

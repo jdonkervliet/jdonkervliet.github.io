@@ -1,7 +1,7 @@
 +++
 title = 'Research'
 menus = 'main'
-weight = 60
+weight = 20
 +++
 
 In my PhD, I focused on increasing the scalability of modifiable virtual environment (MVE) instances.
