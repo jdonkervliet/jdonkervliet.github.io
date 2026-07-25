@@ -13,8 +13,8 @@ My teaching activities are generally closely related to [my research](/research)
 
 | Course                                  | Role               | When?           | Curriculum      | University         |
 | :-------------------------------------- | :----------------- | :-------------- | :-------------- | :----------------- |
-| Distributed Systems                     | Teacher            | 2019, ...       | CS MSc          | [VU][url-vu]       |
-| [Computer Networks](#computer-networks) | Teacher            | 2018, 2019, ... | 1st Year CS BSc | [VU][url-vu]       |
+| Distributed Systems                     | Teacher            | 2019--2025       | CS MSc          | [VU][url-vu]       |
+| [Computer Networks](#computer-networks) | Teacher            | 2018--[2025](https://compnet2526.atlarge-research.com/) | 1st Year CS BSc | [VU][url-vu]       |
 | Computer Networks                       | Teacher            | 2018            | 2nd Year CS BSc | [TUD][url-tudelft] |
 | Computer Organization                   | Teacher            | 2017, 2018      | 1st Year CS BSc | [TUD][url-tudelft] |
 | Computer Organization                   | Teaching Assistant | 2014-2016       | 1st Year CS BSc | [TUD][url-tudelft] |
@@ -27,8 +27,10 @@ My teaching activities are generally closely related to [my research](/research)
 
 ## Computer Networks
 
-Here you can find the slides for my Computer Networks course at VU.
-If you are a teacher, you are free to use them for your own courses,
+The 2025 edition of the course has its own public website including lecture slides, other teaching material, and course design overview. You can find its page here: https://compnet2526.atlarge-research.com/. I am personally most proud of the [games the students made as part of their lab assignments](https://compnet2526.atlarge-research.com/docs/lab-manual/game-showcase/).
+The table below contains the lecture slides from an earlier edition of the course.
+
+If you are a teacher, you are free to use my slides for your own courses,
 but please cite me.
 If you are a student, you are free to use them to study,
 but when in doubt, follow the book of your course.
