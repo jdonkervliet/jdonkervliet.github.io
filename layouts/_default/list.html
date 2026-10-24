@@ -1,5 +1,6 @@
 {{ define "main" }}
 <content>
+    <p><a href="{{ .RelPermalink }}index.xml">RSS Feed</a></p>
     {{ if .Data.Singular }}
     <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
     <small>
